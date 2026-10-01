@@ -25,3 +25,7 @@ Persian (Finglish) subtitle translation for Portal 2. Translates all character d
 1. Run `uninstall.bat`
 2. If the game folder is not found automatically, enter the path manually
 3. The original English files will be restored
+
+## Credits
+- Translation by Amirhossein Mohammadi
+- Based on Valve's original Portal 2 subtitle files
